@@ -7,3 +7,6 @@
 5.Salary
 6.Criteria
 7.Position
+8.Employees app to centralized details
+9.employee team that he works in
+10.Bonus requirements
