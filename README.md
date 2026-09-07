@@ -1,6 +1,9 @@
 # EMPLOYEE-MANAGEMENT-SYSTEM
 
 1.Name
-2.employee id
-3.department
-4.phone no
+2.Employee id
+3.Department
+4.Phone no
+5.Salary
+6.Criteria
+7.Position
